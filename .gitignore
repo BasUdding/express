@@ -2,3 +2,5 @@
 /.vscode
 /express-book-app
 /express-events-starter
+/node_modules
+/postman
